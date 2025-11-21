@@ -1,6 +1,0 @@
-@Delivery.REST_HostAddress = http://localhost:5153
-
-GET {{Delivery.REST_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
